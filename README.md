@@ -27,3 +27,5 @@ No idea what should I put in about me. Ask me lol.
 
 ![github statistics](https://raw.githubusercontent.com/ItsRqtl/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![github statistics](https://raw.githubusercontent.com/ItsRqtl/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67](https://user-images.githubusercontent.com/67050745/195645720-3ddf6584-5379-4008-a3ab-d50cc379865a.png)
