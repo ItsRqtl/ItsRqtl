@@ -4,7 +4,7 @@
 
 [![twitter](https://img.shields.io/twitter/follow/itsrqtl?logo=twitter&style=for-the-badge)](https://twitter.com/itsrqtl)
 
-A random dude suffered from life. (Also someone who spend 10+ hours daily on programming.)  
+A random dude suffered from life. (Also someone who spend hours on programming every single day.)  
 No idea what should I put in about me. Ask me lol.
 
 - I am currently working on **anything I want**
