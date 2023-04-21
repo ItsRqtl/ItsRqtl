@@ -16,8 +16,6 @@ No idea what should I put in about me. Ask me lol.
 <p align="left">
 <a href="https://twitter.com/itsrqtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsrqtl" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13748128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13748128" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itsrqtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsrqtl" height="30" width="40" /></a>
-<a href="https://discord.gg/HxCtHz8wsC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HxCtHz8wsC" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
