@@ -9,8 +9,6 @@ No idea what should I put in about me. Ask me lol.
 
 - I am currently working on **anything I want**
 
-- Pronouns: **He/She**
-
 - Currently learning **Java**
 
 
