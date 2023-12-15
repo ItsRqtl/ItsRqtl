@@ -9,7 +9,7 @@ No idea what should I put in about me. Ask me lol.
 
 - I am currently working on **anything I want**
 
-- Currently learning **Java**
+- Currently learning **something**
 
 
 <h3 align="left">Connect with me:</h3>
